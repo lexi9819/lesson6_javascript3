@@ -4,20 +4,20 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(November 20, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Alexa Lowry)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(A working photo gallery that can display 3 or 5 photos and you can move throgh them.)
 
 ### View Project:
 (Replace this statement with your Github Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Access elements by id, tag name, class, name, or selector)
+2. (Add and remove document nodes)
+3. (Use the History, Location, Navigation, and Screen objects to manipulate the browser window)
 
